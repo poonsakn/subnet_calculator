@@ -1,0 +1,7 @@
+#name-box {
+    position: fixed;
+    top: 10px; /* space between top of browser and annoying box */
+    left: 10px; /* space between top of browser and annoying box */
+    width: 100px;
+    height: 100px;
+}
